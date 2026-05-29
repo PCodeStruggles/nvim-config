@@ -1,0 +1,9 @@
+.repro/
+lazy-lock.json
+
+*.swp
+*.swo
+*~
+.netrwhist
+
+*.log
