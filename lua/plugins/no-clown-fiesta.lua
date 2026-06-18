@@ -15,6 +15,6 @@ return {
         lsp = { underline = false },
       },
     })
-    vim.cmd([[colorscheme no-clown-fiesta]])
+    -- vim.cmd([[colorscheme no-clown-fiesta]])
   end
 }
